@@ -1,0 +1,24 @@
+/* style.css */
+
+.title {
+text-align: center;
+font-size: 48px;
+color: yellow;
+background-color: red;}
+
+.title,
+.subsection {
+font-weight: bold;
+font-family: "Comic Sans MS", sans-serif}
+
+.subsection {
+color: red;
+font-style: italic}
+
+.img {
+height:400;
+width: 300 }
+
+
+
+
